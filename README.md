@@ -137,5 +137,3 @@ Additional evaluation metrics (Precision, Recall, F1-score)
 ## Author
 
 Student machine learning project demonstrating image segmentation using TensorFlow and Python.
-
-<img width="1240" height="462" alt="image" src="https://github.com/user-attachments/assets/3bed85e1-61e9-43d4-be9c-fc84abdd8701" />
