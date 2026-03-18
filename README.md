@@ -1,4 +1,4 @@
-# Pattern Image Segmentation using U-Net (TensorFlow)
+# Pattern image segmentation using U-Net (TensorFlow)
 
 ## Overview
 
@@ -45,7 +45,7 @@ Background pixels - 0
 Object pixels - 1  
 
 
-## Training Configuration
+## Training configuration
 
 - Image resolution: 696 × 496  
 - Batch size: 4  
@@ -54,7 +54,7 @@ Object pixels - 1
 Early stopping is used during training to prevent overfitting.
 
 
-## Model Architecture
+## Model architecture
 
 The model is based on the U-Net architecture and consists of:
 
@@ -94,7 +94,7 @@ It also plots:
 - Histogram of IoU scores  
 
 
-## Running the Project
+## Running the project
 
 Clone the repository:
 ```bash
@@ -116,7 +116,7 @@ dataset-patterns/
 Then run the notebook.
 
 
-## Project Structure
+## Project structure
 ```bash
 pattern-segmentation-unet
 │
@@ -125,14 +125,22 @@ pattern-segmentation-unet
 ├── README.md
 └── requirements.txt
 ```
-## Possible Improvements
+
+
+## Possible improvements
 
 Data augmentation
 Dice loss function
 Larger datasets
 Hyperparameter tuning
-GPU optimization
-Additional evaluation metrics (Precision, Recall, F1-score)
+
+
+
+## Example
+
+<img width="1254" height="464" alt="image" src="https://github.com/user-attachments/assets/fc361dd0-7893-4579-a315-27b895e68966" />
+
+
 
 ## Author
 
