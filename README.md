@@ -140,6 +140,3 @@ Hyperparameter tuning
 <img width="1254" height="464" alt="image" src="https://github.com/user-attachments/assets/fc361dd0-7893-4579-a315-27b895e68966" />
 
 
-## Author
-
-Student machine learning project demonstrating image segmentation using TensorFlow and Python.
