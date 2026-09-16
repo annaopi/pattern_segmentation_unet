@@ -98,7 +98,7 @@ It also plots:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/pattern-segmentation-unet
+git clone https://github.com/annaopi/pattern-segmentation-unet
 cd pattern-segmentation-unet
 ```
 Install dependencies:
